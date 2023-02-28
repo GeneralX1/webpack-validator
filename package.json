@@ -39,8 +39,13 @@
   },
   "dependencies": {
     "basename": "0.1.2",
+ snyk-upgrade-ebee4fdd9a0eaae5d03b5ad995a33f82
+    "chalk": "2.0.0",
+    "commander": "2.20.3",
+
     "chalk": "2.4.2",
     "commander": "2.9.0",
+    master
     "common-tags": "0.1.1",
     "cross-env": "^3.1.1",
     "find-node-modules": "^2.1.1",
