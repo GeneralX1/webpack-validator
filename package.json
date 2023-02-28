@@ -44,7 +44,7 @@
     "common-tags": "0.1.1",
     "cross-env": "^3.1.1",
     "find-node-modules": "^2.1.1",
-    "joi": "9.0.0-0",
+    "joi": "9.2.0",
     "lodash": "^4.11.1",
     "npmlog": "2.0.3",
     "semver": "^5.3.0",
