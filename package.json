@@ -40,7 +40,7 @@
   "dependencies": {
     "basename": "0.1.2",
     "chalk": "2.0.0",
-    "commander": "2.9.0",
+    "commander": "2.20.3",
     "common-tags": "0.1.1",
     "cross-env": "^3.1.1",
     "find-node-modules": "^2.1.1",
