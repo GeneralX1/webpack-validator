@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "basename": "0.1.2",
-    "chalk": "2.0.0",
+    "chalk": "2.4.2",
     "commander": "2.9.0",
     "common-tags": "0.1.1",
     "cross-env": "^3.1.1",
